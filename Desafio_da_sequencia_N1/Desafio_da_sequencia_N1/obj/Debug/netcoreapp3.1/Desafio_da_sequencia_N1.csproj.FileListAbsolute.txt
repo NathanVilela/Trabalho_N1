@@ -1,0 +1,39 @@
+C:\Users\HP\Documents\EC2\Algoritmos 2\Exercícios\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\bin\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.exe
+C:\Users\HP\Documents\EC2\Algoritmos 2\Exercícios\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\bin\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.deps.json
+C:\Users\HP\Documents\EC2\Algoritmos 2\Exercícios\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\bin\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.runtimeconfig.json
+C:\Users\HP\Documents\EC2\Algoritmos 2\Exercícios\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\bin\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.runtimeconfig.dev.json
+C:\Users\HP\Documents\EC2\Algoritmos 2\Exercícios\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\bin\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.dll
+C:\Users\HP\Documents\EC2\Algoritmos 2\Exercícios\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\bin\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.pdb
+C:\Users\HP\Documents\EC2\Algoritmos 2\Exercícios\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.csprojAssemblyReference.cache
+C:\Users\HP\Documents\EC2\Algoritmos 2\Exercícios\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\EC2\Algoritmos 2\Exercícios\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.AssemblyInfo.cs
+C:\Users\HP\Documents\EC2\Algoritmos 2\Exercícios\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\EC2\Algoritmos 2\Exercícios\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.dll
+C:\Users\HP\Documents\EC2\Algoritmos 2\Exercícios\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.pdb
+C:\Users\HP\Documents\EC2\Algoritmos 2\Exercícios\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.genruntimeconfig.cache
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\bin\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.exe
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\bin\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.deps.json
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\bin\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.runtimeconfig.json
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\bin\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.runtimeconfig.dev.json
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\bin\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.dll
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\bin\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.pdb
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.csprojAssemblyReference.cache
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.AssemblyInfo.cs
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.dll
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.pdb
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.genruntimeconfig.cache
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\bin\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.exe
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\bin\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.deps.json
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\bin\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.runtimeconfig.json
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\bin\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.runtimeconfig.dev.json
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\bin\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.dll
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\bin\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.pdb
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.csprojAssemblyReference.cache
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.AssemblyInfoInputs.cache
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.AssemblyInfo.cs
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.dll
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.pdb
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_da_sequencia_N1\Desafio_da_sequencia_N1\obj\Debug\netcoreapp3.1\Desafio_da_sequencia_N1.genruntimeconfig.cache
