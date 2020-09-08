@@ -69,7 +69,7 @@ namespace Ex_23
             Console.WriteLine("||     |      ||  ||  ||   ||  |      |||   || |         |    |");
             Console.WriteLine("  ||   |||    ||  ||  ||   ||  |||    || |  || |      || ||||||");
             Console.WriteLine("   ||  |      || |||  ||   ||  |      ||  | || |      || |    |");
-            Console.WriteLine("|||||  |||||    || ||   |||    |||||  ||   ||| |||||  || |    |");
+            Console.WriteLine("|||||  |||||    || ||   |||    |||||  ||   ||| |||||  || |    | \n \n");
             Console.ResetColor();
         }
 
