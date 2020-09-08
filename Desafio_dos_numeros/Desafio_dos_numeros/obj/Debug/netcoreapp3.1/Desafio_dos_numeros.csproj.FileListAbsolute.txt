@@ -1,0 +1,26 @@
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_dos_numeros\Desafio_dos_numeros\bin\Debug\netcoreapp3.1\Desafio_dos_numeros.exe
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_dos_numeros\Desafio_dos_numeros\bin\Debug\netcoreapp3.1\Desafio_dos_numeros.deps.json
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_dos_numeros\Desafio_dos_numeros\bin\Debug\netcoreapp3.1\Desafio_dos_numeros.runtimeconfig.json
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_dos_numeros\Desafio_dos_numeros\bin\Debug\netcoreapp3.1\Desafio_dos_numeros.runtimeconfig.dev.json
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_dos_numeros\Desafio_dos_numeros\bin\Debug\netcoreapp3.1\Desafio_dos_numeros.dll
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_dos_numeros\Desafio_dos_numeros\bin\Debug\netcoreapp3.1\Desafio_dos_numeros.pdb
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_dos_numeros\Desafio_dos_numeros\obj\Debug\netcoreapp3.1\Desafio_dos_numeros.csprojAssemblyReference.cache
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_dos_numeros\Desafio_dos_numeros\obj\Debug\netcoreapp3.1\Desafio_dos_numeros.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_dos_numeros\Desafio_dos_numeros\obj\Debug\netcoreapp3.1\Desafio_dos_numeros.AssemblyInfo.cs
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_dos_numeros\Desafio_dos_numeros\obj\Debug\netcoreapp3.1\Desafio_dos_numeros.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_dos_numeros\Desafio_dos_numeros\obj\Debug\netcoreapp3.1\Desafio_dos_numeros.dll
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_dos_numeros\Desafio_dos_numeros\obj\Debug\netcoreapp3.1\Desafio_dos_numeros.pdb
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\Desafio_dos_numeros\Desafio_dos_numeros\obj\Debug\netcoreapp3.1\Desafio_dos_numeros.genruntimeconfig.cache
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_dos_numeros\Desafio_dos_numeros\bin\Debug\netcoreapp3.1\Desafio_dos_numeros.exe
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_dos_numeros\Desafio_dos_numeros\bin\Debug\netcoreapp3.1\Desafio_dos_numeros.deps.json
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_dos_numeros\Desafio_dos_numeros\bin\Debug\netcoreapp3.1\Desafio_dos_numeros.runtimeconfig.json
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_dos_numeros\Desafio_dos_numeros\bin\Debug\netcoreapp3.1\Desafio_dos_numeros.runtimeconfig.dev.json
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_dos_numeros\Desafio_dos_numeros\bin\Debug\netcoreapp3.1\Desafio_dos_numeros.dll
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_dos_numeros\Desafio_dos_numeros\bin\Debug\netcoreapp3.1\Desafio_dos_numeros.pdb
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_dos_numeros\Desafio_dos_numeros\obj\Debug\netcoreapp3.1\Desafio_dos_numeros.csprojAssemblyReference.cache
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_dos_numeros\Desafio_dos_numeros\obj\Debug\netcoreapp3.1\Desafio_dos_numeros.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_dos_numeros\Desafio_dos_numeros\obj\Debug\netcoreapp3.1\Desafio_dos_numeros.AssemblyInfoInputs.cache
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_dos_numeros\Desafio_dos_numeros\obj\Debug\netcoreapp3.1\Desafio_dos_numeros.AssemblyInfo.cs
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_dos_numeros\Desafio_dos_numeros\obj\Debug\netcoreapp3.1\Desafio_dos_numeros.dll
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_dos_numeros\Desafio_dos_numeros\obj\Debug\netcoreapp3.1\Desafio_dos_numeros.pdb
+C:\Users\natha\Desktop\TrabalhoN2_Algoritmos2-master\Desafio_dos_numeros\Desafio_dos_numeros\obj\Debug\netcoreapp3.1\Desafio_dos_numeros.genruntimeconfig.cache
